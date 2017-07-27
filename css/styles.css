@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face {
+    font-family: SkyText-Bold;
+    src: url(../fonts/SkyText-Bold.ttf);
+}
+
+@font-face {
+    font-family: SkyTextMedium-Regular;
+    src: url(../fonts/SkyTextMedium-Regular.ttf);
+}
+@font-face {
+  font-family: SkyText-Regular;
+  src: url(../fonts/SkyText-Regular.ttf);
+}
+
+canvas {
+  font: SkyText-Regular;
+}
